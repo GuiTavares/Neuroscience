@@ -1,0 +1,1 @@
+['Delta_C3', 'High_Alpha_CP4', 'Theta_Fpz', 'Theta_AF3', 'High_Beta_F1', '75_perc_F1', 'High_Beta_Fz', 'average_value_F2', 'std_value_P2', 'Low_Beta_P6', 'Low_Beta_PO7', 'Mid_Beta_O1']

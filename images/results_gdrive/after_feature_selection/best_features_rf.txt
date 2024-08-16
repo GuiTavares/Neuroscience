@@ -1,0 +1,1 @@
+['average_value_FC4', '25_perc_value_FC6', '75_perc_Fp1', 'Gamma_AFz', '25_perc_value_F7', 'Gamma_F5', 'Gamma_Fz', 'Gamma_F6', 'Gamma_FT7', 'average_value_FT7']

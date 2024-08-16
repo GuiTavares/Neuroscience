@@ -1,0 +1,1 @@
+['median_Value_FC1', 'Gamma_FC6', 'median_Value_C5', 'Gamma_C2', 'average_value_C6', 'Gamma_Fpz', 'average_value_Fpz', 'Theta_Fp2', 'std_value_Fp2', 'Gamma_F7', 'average_value_F7', 'average_value_F8', 'Gamma_FT7', 'median_Value_FT8', 'Gamma_TP7', 'average_value_TP8', 'average_value_P4', 'Mid_Beta_PO7', 'average_value_O1']
