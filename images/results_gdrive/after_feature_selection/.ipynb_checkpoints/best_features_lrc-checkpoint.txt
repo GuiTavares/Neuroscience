@@ -1,0 +1,12 @@
+Index(['average_value_FC5', 'Gamma_FC1', 'Gamma_FC2', 'Gamma_FC6',
+       'Mid_Beta_C5', 'average_value_C5', '25_perc_value_C4', 'Gamma_CP3',
+       'average_value_CP1', 'Gamma_CP6', 'std_value_Fpz', 'Gamma_AF7',
+       'average_value_AF7', 'std_value_AF7', 'Gamma_AF3', 'Gamma_AF8',
+       'Gamma_F7', 'std_value_F7', '25_perc_value_F7', 'Gamma_F5',
+       'High_Alpha_F1', 'Mid_Beta_F1', 'High_Beta_F6', 'Gamma_F6', 'Gamma_F8',
+       'average_value_F8', 'std_value_F8', 'Gamma_FT7', 'median_Value_FT7',
+       'std_value_FT7', 'Mid_Beta_FT8', '75_perc_T7', 'std_value_T8',
+       'Low_AlphaT9', 'average_value_T9', '75_perc_T9', 'High_Beta_T10',
+       'average_value_T10', 'median_Value_PO4', '25_perc_value_PO4',
+       'average_value_PO8', 'average_value_O1', 'High_Beta_O2'],
+      dtype='object')
