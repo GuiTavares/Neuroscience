@@ -1,0 +1,7 @@
+mne 
+autoreject 
+eeg_positions 
+pyriemann
+xgboost
+pylint==2.7.4
+autopep8==1.5.6
